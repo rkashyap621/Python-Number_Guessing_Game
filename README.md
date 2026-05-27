@@ -1,6 +1,6 @@
 # Python-Number_Guessing_Game
 
-In this game, the computer will choose a number between 1 and 100, and you as the player has to guess the coreect number with available number of chances given to guess to win the game.
+In this game, the computer will choose a number between 1 and 100, and you as the player has to guess the coreect number with available number of chances given to guess, to win the game.
 
 # The Game Play Mechanism:
 1. Computer will choose a random (or [pseudorandom](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)) number between 1 and 100.
